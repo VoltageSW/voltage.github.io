@@ -6,5 +6,6 @@
     </head>
     <body>
         <h1>Voltage Software</h1>
+        <?= time(); ?>
     </body>
 </html>
